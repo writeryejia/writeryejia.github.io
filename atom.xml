@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://writeryejia.github.io</id>
+    <title>叶嘉的打字机</title>
+    <updated>2024-11-30T13:44:26.770Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://writeryejia.github.io"/>
+    <link rel="self" href="https://writeryejia.github.io/atom.xml"/>
+    <subtitle>一个写手，写人物传记，写人物访谈，写小说和随笔。</subtitle>
+    <logo>https://writeryejia.github.io/images/avatar.png</logo>
+    <icon>https://writeryejia.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 叶嘉的打字机</rights>
+    <entry>
+        <title type="html"><![CDATA[情书01 希望]]></title>
+        <id>https://writeryejia.github.io/post/loveletter01/</id>
+        <link href="https://writeryejia.github.io/post/loveletter01/">
+        </link>
+        <updated>2024-11-30T13:33:20.000Z</updated>
+        <content type="html"><![CDATA[<p>多希望</p>
+<p>我是早晨的第一缕阳光，照在你的脸上</p>
+<p>多希望</p>
+<p>我是咖啡店那杯热咖啡，带给你唇齿间的温暖幽香</p>
+<p>多希望</p>
+<p>我是你颈间的围巾，帮你抵御这秋的露寒风凉</p>
+<p>多希望</p>
+<p>我是你归家时的那杯热茶，抚慰你一天的疲惫奔忙</p>
+<p>多希望</p>
+<p>我在你身旁</p>
+<p>可是</p>
+<p>我不能</p>
+<p>只好</p>
+<p>在每一片落叶写下我的思量</p>
+<p>愿风把它们吹往你的方向</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的博客，重新开张]]></title>
+        <id>https://writeryejia.github.io/post/firstarticle/</id>
+        <link href="https://writeryejia.github.io/post/firstarticle/">
+        </link>
+        <updated>2024-11-30T12:50:25.000Z</updated>
+        <content type="html"><![CDATA[<p>其实，已经有网页版。这个版本建在Github上，算是一个备份。前几天personal access token过期了。今天重新申请了token，重建一下这个网站。把所有内容在这里备份一下。</p>
+]]></content>
+    </entry>
+</feed>
